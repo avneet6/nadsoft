@@ -1,0 +1,45 @@
+.sWrtf{
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+.add-member-container{
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 80px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.form-group{
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+label{
+    display: block;
+    margin-bottom: 5px;
+}
+
+button:hover{
+    background-color: #45a049;
+}
+
+
+.add-member-container .form-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .add-member-container .close-button {
+    background: none;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+  }
+  
